@@ -23,9 +23,12 @@
   },
   "homepage": "https://github.com/NoBugzzZ/vite-vue2#readme",
   "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.3.1",
+    "@vitejs/plugin-vue2-jsx": "^1.1.1",
     "vite": "^5.1.6"
   },
   "dependencies": {
     "vue": "^2.7.16"
-  }
+  },
+  "type": "module"
 }
