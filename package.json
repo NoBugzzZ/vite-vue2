@@ -1,0 +1,23 @@
+{
+  "name": "vite-vue2",
+  "version": "0.0.0",
+  "description": "build vue2 with vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoBugzzZ/vite-vue2.git"
+  },
+  "keywords": [
+    "vite",
+    "vue2"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoBugzzZ/vite-vue2/issues"
+  },
+  "homepage": "https://github.com/NoBugzzZ/vite-vue2#readme"
+}
