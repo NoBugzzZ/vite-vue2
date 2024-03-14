@@ -24,5 +24,8 @@
   "homepage": "https://github.com/NoBugzzZ/vite-vue2#readme",
   "devDependencies": {
     "vite": "^5.1.6"
+  },
+  "dependencies": {
+    "vue": "^2.7.16"
   }
 }

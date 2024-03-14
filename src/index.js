@@ -1,3 +1,6 @@
-const div = document.createElement('div')
-div.innerHTML = 'hello vite'
-document.body.appendChild(div)
+
+import component from "./components/comp"
+
+document.body.appendChild(component())
+
+
