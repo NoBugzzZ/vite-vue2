@@ -7,7 +7,7 @@ function component(text = "component") {
     p.classList.add(cssmodule.text,yellowBackground)
     // p.className=common.sfc
     // p.className=cssmodule.text
-    // p.className=cssmodule['red-background']
+    // p.className=cssmodule['yellow-background']
     return p;
 }
 

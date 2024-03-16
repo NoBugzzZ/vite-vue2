@@ -1,5 +1,5 @@
 import vuePlugin from '@vitejs/plugin-vue2'
-import vue2JsxPlugin from '@vitejs/plugin-vue2-jsx'
+// import vue2JsxPlugin from '@vitejs/plugin-vue2-jsx'
 import path from 'path'
 
 export default {

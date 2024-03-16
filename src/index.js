@@ -14,3 +14,5 @@ import json, { a, b } from "@/json/data.json";
 console.log(json, a, b);
 
 import './glob.js'
+
+import './webworker/index.js'
