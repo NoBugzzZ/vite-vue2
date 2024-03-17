@@ -16,3 +16,5 @@ console.log(json, a, b);
 import './glob.js'
 
 import './webworker/index.js'
+
+import './assets/index.js'

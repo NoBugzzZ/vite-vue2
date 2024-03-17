@@ -14,5 +14,8 @@ export default {
     modules: {
       localsConvention: 'camelCaseOnly'
     }
-  }
+  },
+  assetsInclude: [
+    "**/*.md"
+  ]
 }
