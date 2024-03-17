@@ -3,6 +3,7 @@ import vuePlugin from '@vitejs/plugin-vue2'
 import path from 'path'
 
 export default {
+  base: '/vite-vue2/',
   plugins: [vuePlugin()],
   resolve: {
     alias: {
