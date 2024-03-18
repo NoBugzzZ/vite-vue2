@@ -2,7 +2,7 @@ import component from "./components/comp";
 
 document.body.appendChild(component());
 
-import App from "./App.vue";
+import App from "./App";
 
 import Vue from "vue";
 new Vue({

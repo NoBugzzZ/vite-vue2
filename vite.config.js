@@ -9,7 +9,8 @@ export default {
     alias: {
       vue: 'vue/dist/vue.esm.js',
       '@': path.resolve(__dirname, 'src')
-    }
+    },
+    extensions: ['.mjs', '.js', '.mts', '.ts', '.jsx', '.tsx', '.json', '.vue']
   },
   css: {
     modules: {
