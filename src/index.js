@@ -18,3 +18,9 @@ import './glob.js'
 import './webworker/index.js'
 
 import './assets/index.js'
+
+import { GetInfo } from "./api/index.js";
+
+GetInfo().then(res => {
+  console.log(res);
+})
